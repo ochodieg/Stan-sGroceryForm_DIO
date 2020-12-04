@@ -141,5 +141,11 @@
   <ItemGroup>
     <None Include="Resources\stans grocery.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stans_grocery_splashtop.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stans_grocery_splashtop.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
